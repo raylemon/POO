@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="E:/gradle/caches/modules-2/files-2.1/io.ebean/querybean-generator/11.44.1/f9e3dbc5ee8e1359780b4a2bedc3beac6dc255ad/querybean-generator-11.44.1.jar" />
+        </processorPath>
+        <module name="javafx.main" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

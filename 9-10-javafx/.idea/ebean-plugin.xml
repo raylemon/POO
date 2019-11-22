@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ebeanPlugin11">
+    <option name="enabled" value="true" />
+    <option name="agentPath" value="C:\Users\big04\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\193.5233.12.plugins\ebean-idea\lib\ebean-agent-12.1.5.jar" />
+  </component>
+</project>
